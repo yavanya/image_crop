@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+pubspec.lock
+
+.idea/
+*.iml
+
+build/
+
+example/.flutter-plugins-dependencies
+example/ios/Flutter/flutter_export_environment.sh
